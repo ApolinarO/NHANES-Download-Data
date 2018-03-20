@@ -1,0 +1,137 @@
+1: 24-Hour Urine Collection Data Processing - First Collection[2014-2014].XPT not selected
+2: 24-Hour Urine Collection Data Processing - SecondCollection[2014-2014].XPT not selected
+24: Albumin & Creatinine - Urine[2011-2011].XPT not selected
+35: Alcohol Use - Youth[1999-2000].XPT not selected
+36: Alcohol Use - Youth[2005-2006].XPT not selected
+37: Alcohol Use - Youth[2007-2008].XPT not selected
+38: Alcohol Use - Youth[2009-2010].XPT not selected
+39: Alcohol Use - Youth[2011-2012].XPT not selected
+40: Alcohol Use - Youth[2013-2014].XPT not selected
+101: Avian Influenza A (H7N9) & Seasonal Influenza Viruses Antibodies (Surplus)[2010-2010].XPT not selected
+104: Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth[2001-2002].XPT not selected
+105: Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth[2003-2004].XPT not selected
+157: Cadmium_ Lead_ Ferritin_ Serum Folate_ RBC Folate_ Vitamin B12_ Homocysteine_ Methylmalonic acid_ Cotinine & Other Selected Nutritional Biochemistries - Blood_ Second Exam[2000-2000].XPT not selected
+163: California - Demographic Variables & Sample Weights[1999-2006].XPT not selected
+164: California - Demographic Variables & Sample Weights[2007-2014].XPT not selected
+181: Chlamydia - Urine - Youth[2011-2012].XPT not selected
+182: Chlamydia - Urine - Youth[2013-2014].XPT not selected
+188: Chlamydia & Gonorrhea - Urine - Youth[1999-2000].XPT not selected
+189: Chlamydia & Gonorrhea - Urine - Youth[2001-2002].XPT not selected
+190: Chlamydia & Gonorrhea - Urine - Youth[2003-2004].XPT not selected
+191: Chlamydia & Gonorrhea - Urine - Youth[2005-2006].XPT not selected
+192: Chlamydia & Gonorrhea - Urine - Youth[2007-2008].XPT not selected
+193: Chlamydia & Gonorrhea - Urine - Youth[2009-2010].XPT not selected
+217: Cholesterol - Total_ HDL_ LDL  & Triglycerides_ Second Exam[2000-2000].XPT not selected
+233: Complete Blood Count with 5-part Differential - Whole Blood_ Second Exam[2000-2000].XPT not selected
+252: C-Reactive Protein & Others_ Second Exam[2000-2000].XPT not selected
+262: Creatinine & Albumin - Urine_ Second Exam[2000-2000].XPT not selected
+300: Dermatology[2007-2008].XPT not selected
+412: Drug Use - Youth[2007-2008].XPT not selected
+413: Drug Use - Youth[2009-2010].XPT not selected
+414: Drug Use - Youth[2011-2012].XPT not selected
+415: Drug Use - Youth[2013-2014].XPT not selected
+428: Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study [2013-2014].XPT not selected
+*429: Dual-Energy X-ray Absorptiometry - Whole Body[1999-2006].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/Dxa/Dxa.aspx) special case check manually
+431: Dual-Energy X-ray Absorptiometry - Whole Body_ Second Exam[2000-2000].XPT not selected
+442: Electrolytes - 24-Hour Urine - First Collection[2014-2014].XPT not selected
+443: Electrolytes - 24-Hour Urine - Second Collection[2014-2014].XPT not selected
+444: Electrolytes - Home Urine Collection[2014-2014].XPT not selected
+445: Electrolytes - MEC Urine Collection - Surplus[2014-2014].XPT not selected
+446: Electrolytes - Urine[2003-2006].XPT not selected
+482: Folate - Folic acid & 5-methyltetrahydrofolate - Serum (Surplus)[2001-2002].XPT not selected
+490: Folic Acid - Unmetabolized (Surplus)[2001-2002].XPT not selected
+505: Food Security - Pregnant Women[2007-2008].XPT not selected
+506: Food Security - Pregnant Women[2009-2010].XPT not selected
+507: Food Security - Pregnant Women[2011-2012].XPT not selected
+508: Food Security - Pregnant Women[2013-2014].XPT not selected
+509: Geocoding[1999-2004].XPT not selected
+510: Geocoding[2005-2006].XPT not selected
+511: Geocoding[2007-2008].XPT not selected
+512: Geocoding[2009-2010].XPT not selected
+522: Glycohemoglobin_ Plasma Glucose_ Serum C-peptide_ & Insulin_ Second Exam[2000-2000].XPT not selected
+533: Helicobacter pylori (HP1)[2001-2001].XPT not selected
+534: Helicobacter pylori (HP1)_ Second Exam[2001-2001].XPT not selected
+535: Hemagglutination inhibition antibody titers to influenza A_ H1N1 viruses (Surplus)[2007-2008].XPT not selected
+536: Hemagglutination inhibition antibody titers to influenza A_ H1N1 viruses (Surplus)[2010-2010].XPT not selected
+595: Herpes Simplex Virus Type-1 and Type-2 - Youth[2015-2016].XPT not selected
+596: Herpes Simplex Virus Type-2 - Youth[1999-2000].XPT not selected
+597: Herpes Simplex Virus Type-2 - Youth[2001-2002].XPT not selected
+598: Herpes Simplex Virus Type-2 - Youth[2003-2004].XPT not selected
+599: Herpes Simplex Virus Type-2 - Youth[2005-2006].XPT not selected
+600: Herpes Simplex Virus Type-2 - Youth[2007-2008].XPT not selected
+601: Herpes Simplex Virus Type-2 - Youth[2009-2010].XPT not selected
+602: Herpes Simplex Virus Type-2 - Youth[2011-2012].XPT not selected
+603: Herpes Simplex Virus Type-2 - Youth[2013-2014].XPT not selected
+634: Human Leukocyte Antigen B-27[2009-2009].XPT not selected
+638: Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2007-2008].XPT not selected
+640: Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum - Youth[2005-2006].XPT not selected
+641: Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum - Youth[2009-2010].XPT not selected
+643: Human Papillomavirus (HPV) - Multiplexed 6_ 11_ 16_ 18_ 31_ 22_ 45_ 52 & 58 Antibody - Serum - Youth[2005-2006].XPT not selected
+647: Human Papillomavirus (HPV) - Oral Rinse - Youth[2009-2010].XPT not selected
+648: Human Papillomavirus (HPV) - Oral Rinse - Youth[2011-2012].XPT not selected
+649: Human Papillomavirus (HPV) - Oral Rinse - Youth[2013-2014].XPT not selected
+654: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2007-2008].XPT not selected
+656: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2009-2010].XPT not selected
+657: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2011-2012].XPT not selected
+659: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth[2003-2004].XPT not selected
+660: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth[2005-2006].XPT not selected
+661: Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture_ Prototype Line Blot Assay & Roche Linear Array - Youth[2003-2004].XPT not selected
+662: Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array[2013-2014].XPT not selected
+665: Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)[2013-2014].XPT not selected
+666: Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections - Youth (Surplus)[2009-2010].XPT not selected
+682: Influenza A (H3N2) Variant Virus & Historical Seasonal H3N2 Influenza Viruses Antibodies (Surplus)[2010-2010].XPT not selected
+684: Iodine - 24-Hour Urine - First Collection[2014-2014].XPT not selected
+685: Iodine - 24-Hour Urine - Second Collection[2014-2014].XPT not selected
+693: Iodine - Urine - Pregnant Women (Surplus)[2009-2012].XPT not selected
+705: Kidney Markers - 24-Hour Urine - First Collection[2014-2014].XPT not selected
+706: Kidney Markers - 24-Hour Urine - Second Collection[2014-2014].XPT not selected
+707: Kidney Markers - Home Urine Collection[2014-2014].XPT not selected
+712: Los Angeles County_ California - Demographic Variables & Sample Weights[1999-2006].XPT not selected
+713: Los Angeles County_ California - Demographic Variables & Sample Weights[1999-2004].XPT not selected
+714: Los Angeles County_ California - Demographic Variables & Sample Weights[2007-2014].XPT not selected
+725: Measles_ Rubella_ & Varicella_ Second Exam[2000-2000].XPT not selected
+737: Mental Health - Attention Deficit Disorder_Hyperactivity - Youth[2000-2004].XPT not selected
+738: Mental Health - Conduct Disorder - Youth[1999-2000].XPT not selected
+739: Mental Health - Conduct Disorder - Youth[2001-2002].XPT not selected
+740: Mental Health - Conduct Disorder - Youth[2003-2004].XPT not selected
+741: Mental Health - Conduct Disorder - Youth_ Parent Version[2000-2004].XPT not selected
+751: Mental Health - Depression Screener - Youth[2005-2006].XPT not selected
+752: Mental Health - Depression Screener - Youth[2007-2008].XPT not selected
+753: Mental Health - Depression Screener - Youth[2009-2010].XPT not selected
+754: Mental Health - Depression Screener - Youth[2011-2012].XPT not selected
+755: Mental Health - Depression Screener - Youth[2013-2014].XPT not selected
+756: Mental Health - Depression Screener - Youth[2015-2016].XPT not selected
+757: Mental Health - Eating Disorders - Youth[2000-2004].XPT not selected
+758: Mental Health - Elimination Disorders - Youth[2000-2004].XPT not selected
+762: Mental Health - Generalized Anxiety Disorder - Youth[1999-2004].XPT not selected
+763: Mental Health - Major Depression_Dysthymic Disorder - Youth[2000-2004].XPT not selected
+767: Mental Health - Panic Disorder - Youth[1999-2004].XPT not selected
+768: Mental Health Diagnostic Interview - Youth[1999-2004].XPT not selected
+821: Occupation - Industry & Occupation Codes[2005-2006].XPT not selected
+822: Occupation - Industry & Occupation Codes[2007-2008].XPT not selected
+823: Occupation - Industry & Occupation Codes[2009-2010].XPT not selected
+824: Occupation - Industry & Occupation Codes[2011-2012].XPT not selected
+*941: Physical Activity Monitor[2003-2004].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PAXRAW_C.ZIP) special case check manually
+*942: Physical Activity Monitor[2005-2006].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PAXRAW_D.ZIP) special case check manually
+1024: Reproductive Health - Pregnant Women[2007-2008].XPT not selected
+1025: Reproductive Health - Pregnant Women[2009-2010].XPT not selected
+1026: Reproductive Health - Pregnant Women[2011-2012].XPT not selected
+1027: Reproductive Health - Pregnant Women[2013-2014].XPT not selected
+1036: Second Day Lab General Documentation[2000-2000].XPT not selected
+1050: Sexual Behavior - Youth[2005-2006].XPT not selected
+1051: Sexual Behavior - Youth[2007-2008].XPT not selected
+1052: Sexual Behavior - Youth[2009-2010].XPT not selected
+1053: Sexual Behavior - Youth[2011-2012].XPT not selected
+1054: Sexual Behavior - Youth[2013-2014].XPT not selected
+1055: Sexual Behavior - Youth[2015-2016].XPT not selected
+1096: Sodium_ Potassium & Chloride - Casual Urine[2010-2010].XPT not selected
+*1100: Spirometry - Raw Curve Data[2007-2008].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SPXRAW_E.ZIP) special case check manually
+*1101: Spirometry - Raw Curve Data[2009-2010].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SPXRAW_F.ZIP) special case check manually
+*1102: Spirometry - Raw Curve Data[2011-2012].XPT(https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SPXRAW_G.ZIP) special case check manually
+1112: Standard Biochemistry Profile & Hormones_ Second Exam[2000-2000].XPT not selected
+1117: Taste & Smell[2012-2012].XPT not selected
+1146: Trichomonas - Urine - Youth [2015-2016].XPT not selected
+1147: Trichomonas - Urine -Youth[2013-2014].XPT not selected
+1153: Urinary Chlamydia - Youth[2015-2016].XPT not selected
+1172: Vitamin A & Vitamin E_ Second Exam[2000-2000].XPT not selected
+

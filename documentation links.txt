@@ -1,0 +1,1227 @@
+24-Hour Urine Collection Data Processing - First Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/UR1_H_R.htm
+24-Hour Urine Collection Data Processing - SecondCollection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/UR2_H_R.htm
+Acculturation[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/ACQ.htm
+Acculturation[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/ACQ_B.htm
+Acculturation[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/ACQ_C.htm
+Acculturation[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/ACQ_D.htm
+Acculturation[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/ACQ_E.htm
+Acculturation[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ACQ_F.htm
+Acculturation[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ACQ_G.htm
+Acculturation[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/ACQ_H.htm
+Acculturation[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/ACQ_I.htm
+Acrylamide & Glycidamide[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06AGE_C.htm
+Acrylamide & Glycidamide[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AMDGYD_D.htm
+Aflatoxin B1-lysine - Serum (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSAFB_A.htm
+Air Quality[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/AQQ_E.htm
+Air Quality[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/AQQ_F.htm
+Albumin & Creatinine - Urine[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB16.htm
+Albumin & Creatinine - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L16_B.htm
+Albumin & Creatinine - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L16_C.htm
+Albumin & Creatinine - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/ALB_CR_D.htm
+Albumin & Creatinine - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/ALB_CR_E.htm
+Albumin & Creatinine - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ALB_CR_F.htm
+Albumin & Creatinine - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ALB_CR_G.htm
+Albumin & Creatinine - Urine[2011-2011].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALCR_G_R.htm
+Albumin & Creatinine - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/ALB_CR_H.htm
+Albumin & Creatinine - Urine [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/ALB_CR_I.htm
+Alcohol Use[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/ALQ.htm
+Alcohol Use[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/ALQ_B.htm
+Alcohol Use[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/ALQ_C.htm
+Alcohol Use[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/ALQ_D.htm
+Alcohol Use[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/ALQ_E.htm
+Alcohol Use[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ALQ_F.htm
+Alcohol Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ALQ_G.htm
+Alcohol Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/ALQ_H.htm
+Alcohol Use - Youth[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQYTH.htm
+Alcohol Use - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQYTH_D.htm
+Alcohol Use - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQYTH_E.htm
+Alcohol Use - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQY_F_R.htm
+Alcohol Use - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQY_G_R.htm
+Alcohol Use - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/ALQY_H_R.htm
+Alcohol Use (Ages 18-19)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ALQY_F.htm
+Allergen Specific IgE(s) & Total IgE - Serum[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AL_IGE_D.htm
+Allergens - Household Dust[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/ALDUST_D.htm
+Allergy[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AGQ_D.htm
+Analgesic Pain Relievers[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/RXQ_ANA.htm
+Analgesic Pain Relievers[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/RXQANA_B.htm
+Analgesic Pain Relievers[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/RXQANA_C.htm
+Antibody to Toxocara spp. (Surplus)[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SSTOCA_G.htm
+Antibody to Toxocara spp. (Surplus)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSTOCA_H.htm
+Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSAMH_A.htm
+Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSAMH_B.htm
+Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSAMH_C.htm
+Apolipoprotein B[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/APOB_E.htm
+Apolipoprotein B[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/APOB_F.htm
+Apolipoprotein B[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/APOB_G.htm
+Apolipoprotein B[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/APOB_H.htm
+Arsenic - Total - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UTAS_H.htm
+Arsenic - Total - Urine - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UTASS_H.htm
+Arsenics - Speciated - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UAS_H.htm
+Arsenics - Speciated - Urine - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UASS_H.htm
+Arsenics - Total & Speciated - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06UAS_C.htm
+Arsenics - Total & Speciated - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UAS_D.htm
+Arsenics - Total & Speciated - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UAS_E.htm
+Arsenics - Total & Speciated - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UAS_F.htm
+Arsenics - Total & Speciated - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UAS_G.htm
+Arsenics - Total & Speciated - Urine - Special Sample[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UASS_G.htm
+Arthritis[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ARQ_F.htm
+Arthritis Body Measures[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ARX_F.htm
+Atrazine and Metabolites[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UAM_E.htm
+Audiometry[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/AUX1.htm
+Audiometry[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/AUQ.htm
+Audiometry[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/AUX_B.htm
+Audiometry[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/AUQ_B.htm
+Audiometry[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/AUX_C.htm
+Audiometry[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/AUQ_C.htm
+Audiometry[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AUQ_D.htm
+Audiometry[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AUX_D.htm
+Audiometry[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/AUX_E.htm
+Audiometry[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/AUQ_E.htm
+Audiometry[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/AUQ_F.htm
+Audiometry[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/AUX_F.htm
+Audiometry[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/AUQ_G.htm
+Audiometry[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/AUX_G.htm
+Audiometry - Acoustic Reflex[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/AUXAR.htm
+Audiometry - Acoustic Reflex[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/AUXAR_B.htm
+Audiometry - Acoustic Reflex[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/AUXAR_C.htm
+Audiometry - Acoustic Reflex[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AUXAR_D.htm
+Audiometry - Acoustic Reflex[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/AUXAR_E.htm
+Audiometry - Acoustic Reflex[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/AUXAR_F.htm
+Audiometry - Acoustic Reflex[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/AUXAR_G.htm
+Audiometry - Tympanometry[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/AUXTYM.htm
+Audiometry - Tympanometry[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/AUXTYM_B.htm
+Audiometry - Tympanometry[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/AUXTYM_C.htm
+Audiometry - Tympanometry[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/AUXTYM_D.htm
+Audiometry - Tympanometry[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/AUXTYM_E.htm
+Audiometry - Tympanometry[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/AUXTYM_F.htm
+Audiometry - Tympanometry[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/AUXTYM_G.htm
+Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSANA_A.htm
+Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSANA_B.htm
+Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSANA_C.htm
+Avian Influenza A (H7N9) & Seasonal Influenza Viruses Antibodies (Surplus)[2010-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSH7N9_R.htm
+Bacterial vaginosis (BV) & Trichomonas vaginalis[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L34_B.htm
+Bacterial vaginosis (BV) & Trichomonas vaginalis[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L34_C.htm
+Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L34_B_R.htm
+Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L34_C_R.htm
+Balance[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BAQ.htm
+Balance[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BAX.htm
+Balance[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BAX_B.htm
+Balance[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BAQ_B.htm
+Balance[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BAX_C.htm
+Balance[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BAQ_C.htm
+Bioelectrical Impedance Analysis[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BIX.htm
+Bioelectrical Impedance Analysis[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BIX_B.htm
+Bioelectrical Impedance Analysis[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BIX_C.htm
+Blood Lead_ Cadmium_ Total Mercury_ Selenium_ and Manganese[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PBCD_H.htm
+Blood mercury: inorganic_ ethyl and methyl[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/IHGEM_H.htm
+Blood Pressure[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BPX.htm
+Blood Pressure[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BPX_B.htm
+Blood Pressure[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BPX_C.htm
+Blood Pressure[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BPX_D.htm
+Blood Pressure[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BPX_E.htm
+Blood Pressure[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BPX_F.htm
+Blood Pressure[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/BPX_G.htm
+Blood Pressure[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/BPX_H.htm
+Blood Pressure[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/BPX_I.htm
+Blood Pressure & Cholesterol[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BPQ.htm
+Blood Pressure & Cholesterol[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BPQ_B.htm
+Blood Pressure & Cholesterol[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BPQ_C.htm
+Blood Pressure & Cholesterol[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BPQ_D.htm
+Blood Pressure & Cholesterol[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BPQ_E.htm
+Blood Pressure & Cholesterol[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BPQ_F.htm
+Blood Pressure & Cholesterol[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/BPQ_G.htm
+Blood Pressure & Cholesterol[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/BPQ_H.htm
+Blood Pressure & Cholesterol[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/BPQ_I.htm
+Blood_ Water_ & Related Questionnaire Items [2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L04VOC_C.htm
+Body Measures[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/BMX.htm
+Body Measures[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/BMX_B.htm
+Body Measures[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/BMX_C.htm
+Body Measures[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BMX_D.htm
+Body Measures[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BMX_E.htm
+Body Measures[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BMX_F.htm
+Body Measures[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/BMX_G.htm
+Body Measures[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/BMX_H.htm
+Body Measures [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/BMX_I.htm
+Bowel Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BHQ_D.htm
+Bowel Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BHQ_E.htm
+Bowel Health[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BHQ_F.htm
+Brominated Flame Retardants (BFRs)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L28PBE_C.htm
+Brominated Flame Retardants (BFRs) - Pooled Samples[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BFRPOL_D.htm
+Brominated Flame Retardants (BFRs) - Pooled Samples[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BFRPOL_E.htm
+Brominated Flame Retardants (BFRs) - Pooled Samples[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BFRPOL_F.htm
+Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSBFR_B.htm
+Cadmium_ Lead_ & Total Mercury - Blood[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06BMT_C.htm
+Cadmium_ Lead_ & Total Mercury - Blood[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PBCD_D.htm
+Cadmium_ Lead_ & Total Mercury - Blood[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PBCD_E.htm
+Cadmium_ Lead_ & Total Mercury - Blood[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PBCD_F.htm
+Cadmium_ Lead_ Ferritin_ Serum Folate_ RBC Folate_ Vitamin B12_ Homocysteine_ Methylmalonic acid_ Cotinine & Other Selected Nutritional Biochemistries - Blood_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L06_2_00.htm
+Cadmium_ Lead_ Mercury_ Cotinine & Nutritional Biochemistries[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB06.htm
+Cadmium_ Lead_ Mercury_ Cotinine & Nutritional Biochemistries[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L06_B.htm
+Cadmium_ Lead_ Total Mercury_ Ferritin_ Serum Folate_ RBC Folate_ Vitamin B12_ Homocysteine_ Methylmalonic acid_ Cotinine - Blood_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L06_2_B.htm
+Cadmium_ Lead_ Total Mercury_ Selenium_ & Manganese - Blood[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PBCD_G.htm
+Caffeine & Caffeine Metabolites - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CAFE_F.htm
+California - Demographic Variables & Sample Weights[1999-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CDEMO_AD.htm
+California - Demographic Variables & Sample Weights[2007-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CDEMO_EH.htm
+Cardiovascular Fitness[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CVX.htm
+Cardiovascular Fitness[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CVX_B.htm
+Cardiovascular Fitness[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/CVX_C.htm
+Cardiovascular Health[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CDQ.htm
+Cardiovascular Health[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CDQ_B.htm
+Cardiovascular Health[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/CDQ_C.htm
+Cardiovascular Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/CDQ_D.htm
+Cardiovascular Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CDQ_E.htm
+Cardiovascular Health[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CDQ_F.htm
+Cardiovascular Health[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CDQ_G.htm
+Cardiovascular Health[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CDQ_H.htm
+Cardiovascular Health[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/CDQ_I.htm
+Chlamydia - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CHLMDA_F.htm
+Chlamydia - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CHLMDA_G.htm
+Chlamydia - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CHLMDA_H.htm
+Chlamydia - Urine[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/CHLMDA_I.htm
+Chlamydia - Urine - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLM_G_R.htm
+Chlamydia - Urine - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLM_H_R.htm
+Chlamydia & Gonorrhea - Urine[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB05.htm
+Chlamydia & Gonorrhea - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L05_B.htm
+Chlamydia & Gonorrhea - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L05_C.htm
+Chlamydia & Gonorrhea - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/CHLMDA_D.htm
+Chlamydia & Gonorrhea - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CHLMDA_E.htm
+Chlamydia & Gonorrhea - Urine - Youth[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L05RDC_A.htm
+Chlamydia & Gonorrhea - Urine - Youth[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L05RDC_B.htm
+Chlamydia & Gonorrhea - Urine - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L05RDC_C.htm
+Chlamydia & Gonorrhea - Urine - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLMD_DR.htm
+Chlamydia & Gonorrhea - Urine - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLM_E_R.htm
+Chlamydia & Gonorrhea - Urine - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLM_F_R.htm
+Cholesterol - HDL[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HDL_D.htm
+Cholesterol - HDL[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HDL_E.htm
+Cholesterol - HDL[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HDL_F.htm
+Cholesterol - HDL[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HDL_G.htm
+Cholesterol - HDL[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HDL_H.htm
+Cholesterol - High-Density Lipoprotein (HDL) [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HDL_I.htm
+Cholesterol - LDL & Triglycerides[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB13AM.htm
+Cholesterol - LDL & Triglycerides[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L13AM_B.htm
+Cholesterol - LDL & Triglycerides[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L13AM_C.htm
+Cholesterol - LDL & Triglycerides[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/TRIGLY_E.htm
+Cholesterol - LDL & Triglycerides[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/TRIGLY_F.htm
+Cholesterol - LDL & Triglycerides[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TRIGLY_G.htm
+Cholesterol - LDL & Triglycerides[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/TRIGLY_H.htm
+Cholesterol - LDL_ Triglyceride & Apoliprotein (ApoB)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/TRIGLY_D.htm
+Cholesterol - Total[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/TCHOL_D.htm
+Cholesterol - Total[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/TCHOL_E.htm
+Cholesterol - Total[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/TCHOL_F.htm
+Cholesterol - Total[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TCHOL_G.htm
+Cholesterol - Total[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/TCHOL_H.htm
+Cholesterol - Total[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/TCHOL_I.htm
+Cholesterol - Total & HDL[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB13.htm
+Cholesterol - Total & HDL[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L13_B.htm
+Cholesterol - Total & HDL[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L13_C.htm
+Cholesterol - Total_ HDL_ LDL  & Triglycerides_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L13_2_R.htm
+Cholesterol - Total_ HDL_ LDL  & Triglycerides_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L13_2_B.htm
+Chromium & Cobalt [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/CRCO_I.htm
+Cognitive Functioning[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CFQ.htm
+Cognitive Functioning[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CFQ_B.htm
+Cognitive Functioning [2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CFQ_G.htm
+Cognitive Functioning [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CFQ_H.htm
+Complete Blood Count with 5-part Differential - Whole Blood[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB25.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L25_B.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L25_C.htm
+Complete Blood Count with 5-Part Differential - Whole Blood[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/CBC_D.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CBC_E.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CBC_F.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CBC_G.htm
+Complete Blood Count with 5-part Differential - Whole Blood[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CBC_H.htm
+Complete Blood Count with 5-Part Differential - Whole Blood[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/CBC_I.htm
+Complete Blood Count with 5-part Differential - Whole Blood_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L25_2_R.htm
+Complete Blood Count with 5-part Differential - Whole Blood_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L25_2_B.htm
+Consumer Behavior[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CBQ_E.htm
+Consumer Behavior[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CBQ_F.htm
+Consumer Behavior[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CBQ_G.htm
+Consumer Behavior[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CBQ_H.htm
+Consumer Behavior Phone Follow-up Module - Adult[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CBQPFA_E.htm
+Consumer Behavior Phone Follow-up Module - Adult[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CBQPFA_F.htm
+Consumer Behavior Phone Follow-up Module - Child[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CBQPFC_E.htm
+Consumer Behavior Phone Follow-up Module - Child[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CBQPFC_F.htm
+Copper_ Selenium & Zinc - Serum[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CUSEZN_G.htm
+Copper_ Selenium & Zinc - Serum[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CUSEZN_H.htm
+Cotinine - Serum[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06COT_C.htm
+Cotinine - Serum[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/COT_D.htm
+Cotinine - Serum & Total NNAL - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/COTNAL_E.htm
+Cotinine - Serum & Total NNAL - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/COTNAL_F.htm
+Cotinine - Serum & Total NNAL - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/COTNAL_G.htm
+Cotinine and Hydroxycotinine - Serum[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/COT_H.htm
+Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSQFEV_C.htm
+C-Reactive Protein & Others_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L11_2_R.htm
+C-Reactive Protein & Others_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L11_2_B.htm
+C-Reactive Protein (CRP)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB11.htm
+C-Reactive Protein (CRP)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/CRP_D.htm
+C-Reactive Protein (CRP)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CRP_E.htm
+C-Reactive Protein (CRP)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/CRP_F.htm
+C-Reactive Protein (CRP)_ Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L11_C.htm
+C-Reactive protein (CRP)_ Fibrinogen_ Bone Alkaline Phosphatase & Urinary N-telopeptides[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L11_B.htm
+Creatine Kinase[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CKQ_G.htm
+Creatine Kinase[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CKQ_H.htm
+Creatinine & Albumin - Urine_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L16_2_R.htm
+Creatinine & Albumin - Urine_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L16_2_B.htm
+Cryptosporidum & Toxoplasma[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB17.htm
+Current Health Status[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/HSQ.htm
+Current Health Status[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/HSQ_B.htm
+Current Health Status[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/HSQ_C.htm
+Current Health Status[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HSQ_D.htm
+Current Health Status[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HSQ_E.htm
+Current Health Status[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HSQ_F.htm
+Current Health Status[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HSQ_G.htm
+Current Health Status[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HSQ_H.htm
+Current Health Status[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HSQ_I.htm
+Cystatin C - Serum (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSCYST_A.htm
+Cystatin C (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSCYST_B.htm
+Cytomegalovirus Genotypes - Urine (Surplus)[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSCMVG_A.htm
+Cytomegalovirus IgG & IgM Antibodies - Serum[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CMV_G.htm
+Cytomegalovirus IgG Antibodies - Serum (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSCMV_A.htm
+Cytomegalovirus IgG Antibodies - Serum (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSCMV_B.htm
+Cytomegalovirus IgG Antibodies - Serum (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSCMV_C.htm
+Cytomegalovirus shedding - Urine (Surplus)[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSUCSH_A.htm
+DEET and Metabolites[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DEET_E.htm
+DEET and Metabolites[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DEET_F.htm
+DEET and Metabolites[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DEET_G.htm
+DEET and Metabolites[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DEET_H.htm
+Demographic Variables & Sample Weights[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DEMO.htm
+Demographic Variables & Sample Weights[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DEMO_B.htm
+Demographic Variables & Sample Weights[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DEMO_C.htm
+Demographic Variables & Sample Weights[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DEMO_D.htm
+Demographic Variables & Sample Weights[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DEMO_E.htm
+Demographic Variables & Sample Weights[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DEMO_F.htm
+Demographic Variables & Sample Weights[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DEMO_G.htm
+Demographic Variables and Sample Weights[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DEMO_H.htm
+Demographic Variables and Sample Weights[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/DEMO_I.htm
+Dermatology[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DEQ.htm
+Dermatology[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DEQ_B.htm
+Dermatology[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DEX_C.htm
+Dermatology[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DEQ_C.htm
+Dermatology[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DEQ_D.htm
+Dermatology[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DEQ_E_R.htm
+Dermatology[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DEQ_F.htm
+Dermatology[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DEQ_G.htm
+Dermatology[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DEQ_H.htm
+Dermatology[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/DEQ_I.htm
+Diabetes[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DIQ.htm
+Diabetes[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DIQ_B.htm
+Diabetes[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DIQ_C.htm
+Diabetes[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DIQ_D.htm
+Diabetes[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DIQ_E.htm
+Diabetes[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DIQ_F.htm
+Diabetes[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DIQ_G.htm
+Diabetes[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DIQ_H.htm
+Diabetes[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/DIQ_I.htm
+Diet Behavior & Nutrition[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DBQ.htm
+Diet Behavior & Nutrition[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DBQ_B.htm
+Diet Behavior & Nutrition[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DBQ_C.htm
+Diet Behavior & Nutrition[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DBQ_D.htm
+Diet Behavior & Nutrition[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DBQ_E.htm
+Diet Behavior & Nutrition[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DBQ_F.htm
+Diet Behavior & Nutrition[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DBQ_G.htm
+Diet Behavior & Nutrition[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DBQ_H.htm
+Dietary Interview - Individual Foods[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DRXIFF.htm
+Dietary Interview - Individual Foods[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DRXIFF_B.htm
+Dietary Interview - Individual Foods_ First Day[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DR1IFF_C.htm
+Dietary Interview - Individual Foods_ First Day[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DR1IFF_D.htm
+Dietary Interview - Individual Foods_ First Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DR1IFF_E.htm
+Dietary Interview - Individual Foods_ First Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DR1IFF_F.htm
+Dietary Interview - Individual Foods_ First Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DR1IFF_G.htm
+Dietary Interview - Individual Foods_ First Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DR1IFF_H.htm
+Dietary Interview - Individual Foods_ Second Day[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DR2IFF_C.htm
+Dietary Interview - Individual Foods_ Second Day[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DR2IFF_D.htm
+Dietary Interview - Individual Foods_ Second Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DR2IFF_E.htm
+Dietary Interview - Individual Foods_ Second Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DR2IFF_F.htm
+Dietary Interview - Individual Foods_ Second Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DR2IFF_G.htm
+Dietary Interview - Individual Foods_ Second Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DR2IFF_H.htm
+Dietary Interview - Total Nutrient Intakes[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DRXTOT.htm
+Dietary Interview - Total Nutrient Intakes[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DRXTOT_B.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DR1TOT_C.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DR1TOT_D.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DR1TOT_E.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DR1TOT_F.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DR1TOT_G.htm
+Dietary Interview - Total Nutrient Intakes_ First Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DR1TOT_H.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DR2TOT_C.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DR2TOT_D.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DR2TOT_E.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DR2TOT_F.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DR2TOT_G.htm
+Dietary Interview - Total Nutrient Intakes_ Second Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DR2TOT_H.htm
+Dietary Interview Technical Support File - Food Code Format File[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DRXFMT.htm
+Dietary Interview Technical Support File - Food Code Format File[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DRXFMT_B.htm
+Dietary Interview Technical Support File - Food Codes[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DRXFCD_C.htm
+Dietary Interview Technical Support File - Food Codes[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DRXFCD_D.htm
+Dietary Interview Technical Support File - Food Codes[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DRXFCD_E.htm
+Dietary Interview Technical Support File - Food Codes[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DRXFCD_F.htm
+Dietary Interview Technical Support File - Food Codes[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DRXFCD_G.htm
+Dietary Interview Technical Support File - Food Codes[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DRXFCD_H.htm
+Dietary Interview Technical Support File - Modification Codes[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DRXMCD_C.htm
+Dietary Interview Technical Support File - Modification Codes[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DRXMCD_D.htm
+Dietary Interview Technical Support File - Modification Codes[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DRXMCD_E.htm
+Dietary Interview Technical Support File - Modification Codes[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DRXMCD_F.htm
+Dietary Interview Technical Support File - Modification Codes[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DRXMCD_G.htm
+Dietary Screener Questionnaire[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DTQ_F.htm
+Dietary Supplement Database - Blend Information[1999-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DSBI.htm
+Dietary Supplement Database - Ingredient Information[1999-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DSII.htm
+Dietary Supplement Database - Product Information[1999-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DSPI.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ First Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DS1IDS_E.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ First Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DS1IDS_F.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ First Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DS1IDS_G.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ First Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DS1IDS_H.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ Second Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DS2IDS_E.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ Second Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DS2IDS_F.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ Second Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DS2IDS_G.htm
+Dietary Supplement Use 24-Hour - Individual Dietary Supplements_ Second Day[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DS2IDS_H.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ First Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DS1TOT_E.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ First Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DS1TOT_F.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ First Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DS1TOT_G.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ First Day [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DS1TOT_H.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ Second Day[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DS2TOT_E.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ Second Day[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DS2TOT_F.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ Second Day[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DS2TOT_G.htm
+Dietary Supplement Use 24-Hour - Total Dietary Supplements_ Second Day [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DS2TOT_H.htm
+Dietary Supplement Use 30 Day - Individual Dietary Supplements[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DSQIDS_E.htm
+Dietary Supplement Use 30 Day - Individual Dietary Supplements[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DSQIDS_F.htm
+Dietary Supplement Use 30 Day - Individual Dietary Supplements[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DSQIDS_G.htm
+Dietary Supplement Use 30-Day - File 1_ Supplement Counts[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DSQFILE1.htm
+Dietary Supplement Use 30-Day - File 1_ Supplement Counts[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DSQ1_B.htm
+Dietary Supplement Use 30-Day - File 1_ Supplement Counts[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DSQ1_C.htm
+Dietary Supplement Use 30-Day - File 1_ Supplement Counts[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DSQ1_D.htm
+Dietary Supplement Use 30-Day - File 2_ Participant&#39;s Use of Supplements[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DSQFILE2.htm
+Dietary Supplement Use 30-Day - File 2_ Participant&#39;s Use of Supplements[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DSQ2_B.htm
+Dietary Supplement Use 30-Day - File 2_ Participant&#39;s Use of Supplements[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DSQ2_C.htm
+Dietary Supplement Use 30-Day - File 2_ Participant&#39;s Use of Supplements[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DSQ2_D.htm
+Dietary Supplement Use 30-Day - Individual Dietary Supplements [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DSQIDS_H.htm
+Dietary Supplement Use 30-Day - Total Dietary Supplements[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DSQTOT_E.htm
+Dietary Supplement Use 30-Day - Total Dietary Supplements[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DSQTOT_F.htm
+Dietary Supplement Use 30-Day - Total Dietary Supplements[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DSQTOT_G.htm
+Dietary Supplement Use 30-Day - Total Dietary Supplements [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DSQTOT_H.htm
+Dioxins_ Furans_ & Coplanar PCBs[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB28POC.htm
+Dioxins_ Furans_ & Coplanar PCBs[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L28POC_B.htm
+Dioxins_ Furans_ & Coplanar PCBs[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L28DFP_C.htm
+Disability[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DLQ_H.htm
+Disability[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/DLQ_I.htm
+Drug Use[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/DUQ.htm
+Drug Use[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DUQ_B.htm
+Drug Use[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DUQ_C.htm
+Drug Use[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DUQ_D.htm
+Drug Use[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DUQ_E.htm
+Drug Use[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DUQ_F.htm
+Drug Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DUQ_G.htm
+Drug Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DUQ_H.htm
+Drug Use - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DUQYTH_E.htm
+Drug Use - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DUQY_F_R.htm
+Drug Use - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DUQY_G_R.htm
+Drug Use - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DUQY_H_R.htm
+Dual Energy X-ray Absorptiometry - Android_Gynoid[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/DXXAG_C.htm
+Dual Energy X-ray Absorptiometry - Android_Gynoid[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DXXAG_D.htm
+Dual Energy X-ray Absorptiometry - Femur[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DXXFEM_D.htm
+Dual Energy X-ray Absorptiometry - Femur[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DXXFEM_E.htm
+Dual Energy X-ray Absorptiometry - Femur[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DXXFEM_F.htm
+Dual Energy X-ray Absorptiometry - Spine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DXXSPN_D.htm
+Dual Energy X-ray Absorptiometry - Spine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DXXSPN_E.htm
+Dual Energy X-ray Absorptiometry - Spine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DXXSPN_F.htm
+Dual-Energy X-ray Absorptiometry - Femur[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DXXFEM_H.htm
+Dual-Energy X-ray Absorptiometry - FRAX Score[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DXXFRX_H.htm
+Dual-Energy X-ray Absorptiometry - Spine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DXXSPN_H.htm
+Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DXXVFA_H.htm
+Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment Results Comparison Study [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DXXV_H_R.htm
+Dual-Energy X-ray Absorptiometry - Whole Body[1999-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/Dxa/Dxa.aspx
+Dual-Energy X-ray Absorptiometry - Whole Body[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DXX_D.htm
+Dual-Energy X-ray Absorptiometry - Whole Body_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DXX_2_00.htm
+Dual-Energy X-ray Absorptiometry - Whole Body_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/DXX_2_B.htm
+Early Childhood[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/ECQ.htm
+Early Childhood[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/ECQ_B.htm
+Early Childhood[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/ECQ_C.htm
+Early Childhood[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/ECQ_D.htm
+Early Childhood[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/ECQ_E.htm
+Early Childhood[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ECQ_F.htm
+Early Childhood[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ECQ_G.htm
+Early Childhood[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/ECQ_H.htm
+Early Childhood[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/ECQ_I.htm
+Electrolytes - 24-Hour Urine - First Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U1LT_H_R.htm
+Electrolytes - 24-Hour Urine - Second Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U2LT_H_R.htm
+Electrolytes - Home Urine Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HULT_H_R.htm
+Electrolytes - MEC Urine Collection - Surplus[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSLT_H_R.htm
+Electrolytes - Urine[2003-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSUECD_R.htm
+Environmental Phenols[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L24EPH_C.htm
+Environmental Phenols[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/EPH_E.htm
+Environmental Phenols[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/EPH_F.htm
+Environmental Phenols & Parabens[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/EPH_D.htm
+Environmental Phenols & Parabens[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/EPH_G.htm
+Epstein-Barr Virus (VCA IgG) - Serum (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSEBV_C.htm
+Epstein-Barr Virus (VCA IgG) - Serum (Surplus)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SSEBV_D.htm
+Epstein-Barr Virus (VCA IgG) - Serum (Surplus)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SSEBV_E.htm
+Epstein-Barr Virus (VCA IgG) - Serum (Surplus)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SSEBV_F.htm
+Erythrocyte Protoporphyrin[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L39_2_B.htm
+Erythrocyte Protoporphyrin[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L39_B.htm
+Erythrocyte Protoporphyrin[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/EPP_D.htm
+Erythrocyte Protoporphyrin & Selenium[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L39EPP_C.htm
+Exhaled Nitric Oxide[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/ENX_E.htm
+Exhaled Nitric Oxide[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ENX_F.htm
+Exhaled Nitric Oxide[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ENX_G.htm
+Fasting Questionnaire[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PH.htm
+Fasting Questionnaire[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PH_B.htm
+Fasting Questionnaire[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PH_C.htm
+Fasting Questionnaire[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FASTQX_D.htm
+Fasting Questionnaire[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/FASTQX_E.htm
+Fasting Questionnaire[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/FASTQX_F.htm
+Fasting Questionnaire[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/FASTQX_G.htm
+Fasting Questionnaire[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/FASTQX_H.htm
+Fasting Questionnaire [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/FASTQX_I.htm
+Fatty Acids - Plasma (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSFA_C.htm
+Ferritin[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FERTIN_D.htm
+Ferritin[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/FERTIN_E.htm
+Ferritin[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/FERTIN_F.htm
+Ferritin & Transferrin Receptor[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06TFR_C.htm
+Flame Retardant Metabolites - Urine (Surplus)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSFLRT_H.htm
+Fluoride - Plasma[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/FLDEP_H.htm
+Fluoride - Plasma [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/FLDEP_I.htm
+Fluoride - Water[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/FLDEW_H.htm
+Fluoride - Water [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/FLDEW_I.htm
+Folate - Folic acid & 5-methyltetrahydrofolate - Serum (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSFA_B_R.htm
+Folate - RBC[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/FOLATE_G.htm
+Folate - RBC & Serum[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FOLATE_D.htm
+Folate - RBC & Serum[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/FOLATE_E.htm
+Folate - RBC & Serum[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/FOLATE_F.htm
+Folate - RBC & Serum_ and Vitamin B12[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06NB_C.htm
+Folate Forms - Serum[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/FOLFMS_G.htm
+Folic Acid - Unmetabolized (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSFOL_A.htm
+Folic Acid - Unmetabolized (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSFOL_B.htm
+Food Frequency Questionnaire - Look-Up Table FOODLOOK[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FOODLK_D.htm
+Food Frequency Questionnaire - Look-Up Table VARLOOK[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VARLK_D.htm
+Food Frequency Questionnaire - Output from DietCalc Software[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/FFQDC_C.htm
+Food Frequency Questionnaire - Output from DietCalc Software[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FFQDC_D.htm
+Food Frequency Questionnaire - Raw Questionnaire Responses[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/FFQRAW_C.htm
+Food Frequency Questionnaire - Raw Questionnaire Responses[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FFQRAW_D.htm
+Food Security[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/FSQ.htm
+Food Security[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/FSQ_B.htm
+Food Security[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/FSQ_C.htm
+Food Security[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FSQ_D.htm
+Food Security[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/FSQ_E.htm
+Food Security[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/FSQ_F.htm
+Food Security[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/FSQ_G.htm
+Food Security[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/FSQ_H.htm
+Food Security - Pregnant Women[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/FSQ_E_R.htm
+Food Security - Pregnant Women[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/FSQ_F_R.htm
+Food Security - Pregnant Women[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/FSQ_G_R.htm
+Food Security - Pregnant Women[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/FSQ_H_R.htm
+Geocoding[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/N9904_GE.htm
+Geocoding[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/N0506_GE.htm
+Geocoding[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/N0708_GE.htm
+Geocoding[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/N0910_GE.htm
+Glycohemoglobin[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB10.htm
+Glycohemoglobin[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L10_B.htm
+Glycohemoglobin[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L10_C.htm
+Glycohemoglobin[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/GHB_D.htm
+Glycohemoglobin[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/GHB_E.htm
+Glycohemoglobin[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/GHB_F.htm
+Glycohemoglobin[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/GHB_G.htm
+Glycohemoglobin[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/GHB_H.htm
+Glycohemoglobin[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/GHB_I.htm
+Glycohemoglobin_ Plasma Glucose_ Serum C-peptide_ & Insulin_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L10_2_00.htm
+Glycohemoglobin_ Plasma Glucose_ Serum C-peptide_ & Insulin_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L10_2_B.htm
+Health Insurance[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/HIQ.htm
+Health Insurance[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/HIQ_B.htm
+Health Insurance[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/HIQ_C.htm
+Health Insurance[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HIQ_D.htm
+Health Insurance[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HIQ_E.htm
+Health Insurance[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HIQ_F.htm
+Health Insurance[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HIQ_G.htm
+Health Insurance[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HIQ_H.htm
+Health Insurance[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HIQ_I.htm
+Helicobacter pylori (HP1)[2001-2001].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HP_01_R.htm
+Helicobacter pylori (HP1)_ Second Exam[2001-2001].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HP2_01_R.htm
+Hemagglutination inhibition antibody titers to influenza A_ H1N1 viruses (Surplus)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSH1N1_E.htm
+Hemagglutination inhibition antibody titers to influenza A_ H1N1 viruses (Surplus)[2010-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSHN10_R.htm
+Hepatitis[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEQ_H.htm
+Hepatitis[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEQ_I.htm
+Hepatitis A[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEPA_H.htm
+Hepatitis A[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEPA_I.htm
+Hepatitis A Antibody[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/L02HPA_A.htm
+Hepatitis A Antibody[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L02HPA_B.htm
+Hepatitis A Antibody[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L02HPA_C.htm
+Hepatitis A Antibody[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HEPA_D.htm
+Hepatitis A Antibody[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HEPA_E.htm
+Hepatitis A Antibody[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HEPA_F.htm
+Hepatitis A Antibody[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HEPA_G.htm
+Hepatitis B Surface Antibody[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/L02HBS.htm
+Hepatitis B Surface Antibody[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L02HBS_B.htm
+Hepatitis B Surface Antibody[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L02HBS_C.htm
+Hepatitis B Surface Antibody[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HEPB_S_D.htm
+Hepatitis B Surface Antibody[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HEPB_S_E.htm
+Hepatitis B Surface Antibody[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HEPB_S_F.htm
+Hepatitis B Surface Antibody[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HEPB_S_G.htm
+Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB02.htm
+Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L02_B.htm
+Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L02_C.htm
+Hepatitis B: core antibody_ surface antigen_ and Hepatitis D antibody[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEPBD_H.htm
+Hepatitis B: Core antibody_ Surface antigen_ and Hepatitis D antibody [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEPBD_I.htm
+Hepatitis B: Core Antibody_ Surface Antigen; Hepatitis D Antibody[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HEPBD_D.htm
+Hepatitis B: Core Antibody_ Surface Antigen; Hepatitis D Antibody[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HEPBD_E.htm
+Hepatitis B: Core Antibody_ Surface Antigen; Hepatitis D Antibody[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HEPBD_F.htm
+Hepatitis B: Core Antibody_ Surface Antigen; Hepatitis D Antibody[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HEPBD_G.htm
+Hepatitis B: Surface Antibody[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEPB_S_H.htm
+Hepatitis B: Surface Antibody[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEPB_S_I.htm
+Hepatitis C Antibody Reflex Testing - Serum (Surplus)[2007-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SSHCV_E.htm
+Hepatitis C Follow Up[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/HCQ_B.htm
+Hepatitis C Follow Up[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/HCQ_C.htm
+Hepatitis C Follow Up[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HCQ_D.htm
+Hepatitis C Follow Up[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HCQ_E.htm
+Hepatitis C Follow Up[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HCQ_F.htm
+Hepatitis C Follow Up[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HCQ_G.htm
+Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSHCVR_C.htm
+Hepatitis C: Confirmed Antibody_ RNA (HCV-RNA)_ & Genotype[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HEPC_D.htm
+Hepatitis C: Confirmed Antibody_ RNA (HCV-RNA)_ & Genotype[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HEPC_E.htm
+Hepatitis C: Confirmed Antibody_ RNA (HCV-RNA)_ & Genotype[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HEPC_F.htm
+Hepatitis C: Confirmed Antibody_ RNA (HCV-RNA)_ & Genotype[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HEPC_G.htm
+Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEPC_H.htm
+Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEPC_I.htm
+Hepatitis E : IgG & IgM Antibodies[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HEPE_F.htm
+Hepatitis E : IgG & IgM Antibodies[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HEPE_G.htm
+Hepatitis E: IgG & IgM Antibodies[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HEPE_H.htm
+Hepatitis E: IgG & IgM Antibodies[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HEPE_I.htm
+Herpes Simplex Virus Type-1 & Type-2[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB09.htm
+Herpes Simplex Virus Type-1 & Type-2[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L09_B.htm
+Herpes Simplex Virus Type-1 & Type-2[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L09_C.htm
+Herpes Simplex Virus Type-1 & Type-2[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HSV_D.htm
+Herpes Simplex Virus Type-1 & Type-2[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HSV_E.htm
+Herpes Simplex Virus Type-1 & Type-2[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HSV_F.htm
+Herpes Simplex Virus Type-1 & Type-2[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HSV_G.htm
+Herpes Simplex Virus Type-1 & Type-2[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HSV_H.htm
+Herpes Simplex Virus Type-1 & Type-2[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HSV_I.htm
+Herpes Simplex Virus Type-1 (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSHSV1_A.htm
+Herpes Simplex Virus Type-1 (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSHSV1_B.htm
+Herpes Simplex Virus Type-1 and Type-2 - Youth[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_I_R.htm
+Herpes Simplex Virus Type-2 - Youth[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L09RDC_A.htm
+Herpes Simplex Virus Type-2 - Youth[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L09RDC_B.htm
+Herpes Simplex Virus Type-2 - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L09RDC_C.htm
+Herpes Simplex Virus Type-2 - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_DR.htm
+Herpes Simplex Virus Type-2 - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_E_R.htm
+Herpes Simplex Virus Type-2 - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_F_R.htm
+Herpes Simplex Virus Type-2 - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_G_R.htm
+Herpes Simplex Virus Type-2 - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HSV_H_R.htm
+Heterocyclic Aromatic Amines - Urine [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HCAA_H.htm
+Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HCAAS_H.htm
+HIV Antibody Test[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HIV_E.htm
+HIV Antibody Test[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HIV_F.htm
+HIV Antibody Test[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HIV_G.htm
+HIV Antibody Test[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HIV_H.htm
+HIV Antibody Test [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HIV_I.htm
+HIV Antibody Test_ CD4+ T Lymphocytes & CD8+ T Cells[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB03.htm
+HIV Antibody Test_ CD4+ T Lymphocytes & CD8+ T Cells[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L03_B.htm
+HIV Antibody Test_ CD4+ T Lymphocytes & CD8+ T Cells[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L03_C.htm
+HIV Antibody Test_ CD4+ T Lymphocytes & CD8+ T Cells[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HIV_D.htm
+Homocysteine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HCY_D.htm
+Hospital Utilization & Access to Care[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/HUQ.htm
+Hospital Utilization & Access to Care[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/HUQ_B.htm
+Hospital Utilization & Access to Care[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/HUQ_C.htm
+Hospital Utilization & Access to Care[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HUQ_D.htm
+Hospital Utilization & Access to Care[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HUQ_E.htm
+Hospital Utilization & Access to Care[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HUQ_F.htm
+Hospital Utilization & Access to Care[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HUQ_G.htm
+Hospital Utilization & Access to Care[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HUQ_H.htm
+Hospital Utilization & Access to Care[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HUQ_I.htm
+Housing Characteristics[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/HOQ.htm
+Housing Characteristics[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/HOQ_B.htm
+Housing Characteristics[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/HOQ_C.htm
+Housing Characteristics[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HOQ_D.htm
+Housing Characteristics[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HOQ_E.htm
+Housing Characteristics[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HOQ_F.htm
+Housing Characteristics[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HOQ_G.htm
+Housing Characteristics[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HOQ_H.htm
+Housing Characteristics[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/HOQ_I.htm
+Human Leukocyte Antigen B-27[2009-2009].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/B27_F_R.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L52SER_C.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HPVSER_D.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HPVSER_E.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SER_E_R.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HPVSER_F.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVS_D_R.htm
+Human Papillomavirus (HPV) - 6_ 11_ 16 & 18 Antibody - Serum - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SER_F_R.htm
+Human Papillomavirus (HPV) - Multiplexed 6_ 11_ 16_ 18_ 31_ 22_ 45_ 52 & 58 Antibody - Serum[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HPVSRM_D.htm
+Human Papillomavirus (HPV) - Multiplexed 6_ 11_ 16_ 18_ 31_ 22_ 45_ 52 & 58 Antibody - Serum - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVM_D_R.htm
+Human Papillomavirus (HPV) - Oral Rinse[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/ORHPV_F.htm
+Human Papillomavirus (HPV) - Oral Rinse[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/ORHPV_G.htm
+Human Papillomavirus (HPV) - Oral Rinse[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/ORHPV_H.htm
+Human Papillomavirus (HPV) - Oral Rinse - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OHPV_F_R.htm
+Human Papillomavirus (HPV) - Oral Rinse - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OHPV_G_R.htm
+Human Papillomavirus (HPV) - Oral Rinse - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OHPV_H_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L37SWA_C.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L37SWR_C.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/HPVSWR_D.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/HPVSWR_E.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SWR_E_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/HPVSWR_F.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVS_F_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVS_G_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/HPVSWR_G.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SWR_C_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SWR_D_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture_ Prototype Line Blot Assay & Roche Linear Array - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SWA_C_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVS_H_R.htm
+Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HPVSWR_H.htm
+Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/HPVP_H.htm
+Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (Youth)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HPVP_H_R.htm
+Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections - Youth (Surplus)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSHP_F_R.htm
+Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SSHPV_F.htm
+Immunization[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/IMQ.htm
+Immunization[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/IMQ_B.htm
+Immunization[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/IMQ_C.htm
+Immunization[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/IMQ_D.htm
+Immunization[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/IMQ_E.htm
+Immunization[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/IMQ_F.htm
+Immunization[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/IMQ_G.htm
+Immunization[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/IMQ_H.htm
+Immunization[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/IMQ_I.htm
+Income[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/INQ_E.htm
+Income[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/INQ_F.htm
+Income[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/INQ_G.htm
+Income[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/INQ_H.htm
+Income[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/INQ_I.htm
+Influenza A (H3N2) Variant Virus & Historical Seasonal H3N2 Influenza Viruses Antibodies (Surplus)[2010-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSIF_F_R.htm
+Insulin[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/INS_H.htm
+Iodine - 24-Hour Urine - First Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U1IO_H_R.htm
+Iodine - 24-Hour Urine - Second Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U2IO_H_R.htm
+Iodine - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L06UIO_B.htm
+Iodine - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06UIO_C.htm
+Iodine - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UIO_D.htm
+Iodine - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UIO_E.htm
+Iodine - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UIO_F.htm
+Iodine - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UIO_G.htm
+Iodine - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UIO_H.htm
+Iodine - Urine - Pregnant Women (Surplus)[2009-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSUIFG_R.htm
+Iron_ Total Iron Binding Capacity (TIBC)_ & Transferrin Saturation[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L40FE_B.htm
+Iron_ Total Iron Binding Capacity (TIBC)_ & Transferrin Saturation[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L40FE_C.htm
+Iron_ Total Iron Binding Capacity (TIBC)_ & Transferrin Saturation[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/FETIB_D.htm
+Kidney Conditions[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/KIQ.htm
+Kidney Conditions - Urology[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/KIQ_U_B.htm
+Kidney Conditions - Urology[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/KIQ_U_C.htm
+Kidney Conditions - Urology[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/KIQ_U_D.htm
+Kidney Conditions - Urology[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/KIQ_U_E.htm
+Kidney Conditions - Urology[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/KIQ_U_F.htm
+Kidney Conditions - Urology[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/KIQ_U_G.htm
+Kidney Conditions - Urology[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/KIQ_U_H.htm
+Kidney Markers - 24-Hour Urine - First Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U1KM_H_R.htm
+Kidney Markers - 24-Hour Urine - Second Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/U2KM_H_R.htm
+Kidney Markers - Home Urine Collection[2014-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/HUKM_H_R.htm
+Latex[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB07.htm
+Lead - Dust[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB20.htm
+Lead - Dust[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L20_B.htm
+Lead - Dust[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L20_C.htm
+Los Angeles County_ California - Demographic Variables & Sample Weights[1999-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/LDEMO_AD.htm
+Los Angeles County_ California - Demographic Variables & Sample Weights[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/LA_DEMO.htm
+Los Angeles County_ California - Demographic Variables & Sample Weights[2007-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/LDEMO_EH.htm
+Lower Extremity Disease - Ankle Brachial Blood Pressure Index[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LEXABPI.htm
+Lower Extremity Disease - Ankle Brachial Blood Pressure Index[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/LEXAB_B.htm
+Lower Extremity Disease - Ankle Brachial Blood Pressure Index[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/LEXAB_C.htm
+Lower Extremity Disease - Peripheral Neuropathy[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LEXPN.htm
+Lower Extremity Disease - Peripheral Neuropathy[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/LEXPN_B.htm
+Lower Extremity Disease - Peripheral Neuropathy[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/LEXPN_C.htm
+Measles_ Mumps_ Rubella & Varicella[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/MMRV_F.htm
+Measles_ Rubella_ & Varicella[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB19.htm
+Measles_ Rubella_ & Varicella[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L19_B.htm
+Measles_ Rubella_ & Varicella[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L19_C.htm
+Measles_ Rubella_ & Varicella_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L19_2_R.htm
+Measles_ Rubella_ & Varicella_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L19_2_B.htm
+Medical Conditions[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/MCQ.htm
+Medical Conditions[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/MCQ_B.htm
+Medical Conditions[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/MCQ_C.htm
+Medical Conditions[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/MCQ_D.htm
+Medical Conditions[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/MCQ_E.htm
+Medical Conditions[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/MCQ_F.htm
+Medical Conditions[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/MCQ_G.htm
+Medical Conditions[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/MCQ_H.htm
+Medical Conditions[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/MCQ_I.htm
+Melamine - Urine (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSMEL_C.htm
+Mental Health - Attention Deficit Disorder_Hyperactivity - Youth[2000-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQA.htm
+Mental Health - Conduct Disorder - Youth[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YCQ.htm
+Mental Health - Conduct Disorder - Youth[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YCQ_B.htm
+Mental Health - Conduct Disorder - Youth[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YCQ_C.htm
+Mental Health - Conduct Disorder - Youth_ Parent Version[2000-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQC.htm
+Mental Health - Depression[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CIQMDEP.htm
+Mental Health - Depression[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CIQDEP_B.htm
+Mental Health - Depression[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/CIQDEP_C.htm
+Mental Health - Depression Screener[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DPQ_D.htm
+Mental Health - Depression Screener[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DPQ_E.htm
+Mental Health - Depression Screener[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DPQ_F.htm
+Mental Health - Depression Screener[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/DPQ_G.htm
+Mental Health - Depression Screener[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/DPQ_H.htm
+Mental Health - Depression Screener[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/DPQ_I.htm
+Mental Health - Depression Screener - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQYTH_D.htm
+Mental Health - Depression Screener - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQYTH_E.htm
+Mental Health - Depression Screener - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQY_F_R.htm
+Mental Health - Depression Screener - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQY_G_R.htm
+Mental Health - Depression Screener - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQY_H_R.htm
+Mental Health - Depression Screener - Youth[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DPQY_I_R.htm
+Mental Health - Eating Disorders - Youth[2000-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQE.htm
+Mental Health - Elimination Disorders - Youth[2000-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQL.htm
+Mental Health - Generalized Anxiety Disorder[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CIQGAD.htm
+Mental Health - Generalized Anxiety Disorder[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CIQGAD_B.htm
+Mental Health - Generalized Anxiety Disorder[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/CIQGAD_C.htm
+Mental Health - Generalized Anxiety Disorder - Youth[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQG.htm
+Mental Health - Major Depression_Dysthymic Disorder - Youth[2000-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQD.htm
+Mental Health - Panic Disorder[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/CIQPANIC.htm
+Mental Health - Panic Disorder[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/CIQPAN_B.htm
+Mental Health - Panic Disorder[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/CIQPAN_C.htm
+Mental Health - Panic Disorder - Youth[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQP.htm
+Mental Health Diagnostic Interview - Youth[1999-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/YDQ.htm
+Mercury - Hair[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB22.htm
+Mercury - Inorganic - Blood[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/IHG_D.htm
+Mercury - Inorganic - Blood[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/IHG_E.htm
+Mercury - Inorganic - Blood[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/IHG_F.htm
+Mercury - Inorganic_ Ethyl & Methyl - Blood[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/IHGEM_G.htm
+Mercury - Inorganic_ Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06UHG_C.htm
+Mercury - Inorganic_ Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UHG_D.htm
+Mercury - Inorganic_ Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UHG_E.htm
+Mercury - Inorganic_ Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UHG_F.htm
+Mercury - Inorganic_ Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UHG_G.htm
+Mercury - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UHG_H.htm
+Metals - Urine[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB06HM.htm
+Metals - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L06HM_B.htm
+Metals - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06HM_C.htm
+Metals - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UHM_D.htm
+Metals - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UHM_E.htm
+Metals - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UHM_F.htm
+Metals - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UHM_G.htm
+Metals - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UM_H.htm
+Metals - Urine - Special Sample[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UHMS_G.htm
+Metals - Urine - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UMS_H.htm
+Methicillin - Resistant Staphylococcus aureus (MRSA)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L35_B.htm
+Methicillin - Resistant Staphylococcus aureus (MRSA)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L35_C.htm
+Methylmalonic acid & Homocysteine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06MH_C.htm
+Miscellaneous Pain[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/MPQ.htm
+Miscellaneous Pain[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/MPQ_B.htm
+Miscellaneous Pain[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/MPQ_C.htm
+Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSOL_A.htm
+Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSOL_B.htm
+Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSOL_C.htm
+Mumps Antibody - Serum (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSMUMP_A.htm
+Mumps Antibody - Serum (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSMUMP_B.htm
+Mumps Antibody - Serum (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSMUMP_C.htm
+Muscle Strength[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/MSX.htm
+Muscle Strength[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/MSX_B.htm
+Muscle Strength - Grip Test[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/MGX_G.htm
+Muscle Strength - Grip Test[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/MGX_H.htm
+Non-dioxin-like Polychlorinated Biphenyls[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L28NPB_C.htm
+Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSPCB_B.htm
+Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PCBPOL_D.htm
+Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PCBPOL_F.htm
+Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls (Surplus)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PCBPOL_E.htm
+Norovirus antibody - Serum [1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSNORO_A.htm
+Norovirus antibody - Serum [2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSNORO_C.htm
+Occupation[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OCQ.htm
+Occupation[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OCQ_B.htm
+Occupation[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OCQ_C.htm
+Occupation[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OCQ_D.htm
+Occupation[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OCQ_E.htm
+Occupation[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OCQ_F.htm
+Occupation[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OCQ_G.htm
+Occupation[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OCQ_H.htm
+Occupation - Industry & Occupation Codes[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OCQ_D_R.htm
+Occupation - Industry & Occupation Codes[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OCQ_E_R.htm
+Occupation - Industry & Occupation Codes[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OCQ_F_R.htm
+Occupation - Industry & Occupation Codes[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/OCQ_G_R.htm
+Ophthalmology - Frequency Doubling Technology[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OPXFDT_D.htm
+Ophthalmology - Frequency Doubling Technology[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OPXFDT_E.htm
+Ophthalmology - Retinal Imaging[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OPXRET_D.htm
+Ophthalmology - Retinal Imaging[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OPXRET_E.htm
+Oral Glucose Tolerance Test[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OGTT_D.htm
+Oral Glucose Tolerance Test[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OGTT_E.htm
+Oral Glucose Tolerance Test[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OGTT_F.htm
+Oral Glucose Tolerance Test[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OGTT_G.htm
+Oral Glucose Tolerance Test[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OGTT_H.htm
+Oral Health[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OHQ.htm
+Oral Health[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OHQ_B.htm
+Oral Health[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHQ_C.htm
+Oral Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OHQ_D.htm
+Oral Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OHX_D.htm
+Oral Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OHX_E.htm
+Oral Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OHQ_E.htm
+Oral Health[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OHQ_F.htm
+Oral Health[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OHQ_G.htm
+Oral Health[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OHQ_H.htm
+Oral Health[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/OHQ_I.htm
+Oral Health - Addendum[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHXADD_C.htm
+Oral Health - Dentition[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OHXDENT.htm
+Oral Health - Dentition[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OHXDEN_B.htm
+Oral Health - Dentition[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHXDEN_C.htm
+Oral Health - Dentition[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OHXDEN_F.htm
+Oral Health - Dentition[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OHXDEN_G.htm
+Oral Health - Dentition[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OHXDEN_H.htm
+Oral Health - Periodontal[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OHXPERIO.htm
+Oral Health - Periodontal[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OHXPER_F.htm
+Oral Health - Periodontal[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OHXPER_G.htm
+Oral Health - Periodontal [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OHXPER_H.htm
+Oral Health - Periodontal_Lower[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OHXPRL_B.htm
+Oral Health - Periodontal_Lower[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHXPRL_C.htm
+Oral Health - Periodontal_Upper[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OHXPRU_B.htm
+Oral Health - Periodontal_Upper[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHXPRU_C.htm
+Oral Health - Recommendation of Care[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OHXREF.htm
+Oral Health - Recommendation of Care[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OHXREF_B.htm
+Oral Health - Recommendation of Care[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OHXREF_C.htm
+Oral Health - Recommendation of Care[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OHXREF_F.htm
+Oral Health - Recommendation of Care[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/OHXREF_G.htm
+Oral Health - Recommendation of Care [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OHXREF_H.htm
+Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L26OPD_C.htm
+Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OPD_D.htm
+Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OPD_E.htm
+Osmolality - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UCOSMO_F.htm
+Osmolality - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UCOSMO_G.htm
+Osteoporosis[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/OSQ.htm
+Osteoporosis[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/OSQ_B.htm
+Osteoporosis[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/OSQ_C.htm
+Osteoporosis[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/OSQ_D.htm
+Osteoporosis[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/OSQ_E.htm
+Osteoporosis[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/OSQ_F.htm
+Osteoporosis[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/OSQ_H.htm
+Parathyroid Hormone[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PTH_D.htm
+Perchlorate - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L04PER_C.htm
+Perchlorate_ Nitrate & Iodide - Tap Water[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/WPIN_D.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PERNT_D.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PERNT_E.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PERNT_F.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PERNT_G.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PERNT_H.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine - Special Sample[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PERNTS_G.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PERNTS_H.htm
+Perchlorate_ Nitrate & Thiocyanate - Urine (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSNO3P_B.htm
+Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSPFAS_H.htm
+Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)  [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PFAS_H.htm
+Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSPFAC_H.htm
+Perfluoroaokyl Chemicals - Serum (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSPFC_A.htm
+Personal Care and Consumer Product Chemicals and Metabolites [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/EPHPP_H.htm
+Pesticide Use[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PUQ.htm
+Pesticide Use[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PUQ_B.htm
+Pesticide Use[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PUQ_C.htm
+Pesticide Use[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PUQMEC_D.htm
+Pesticide Use[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PUQMEC_E.htm
+Pesticide Use[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PUQMEC_F.htm
+Pesticide Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PUQMEC_G.htm
+Pesticide Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PUQMEC_H.htm
+Pesticides - Carbamates & Organophosphorus Metabolites - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/CARB_D.htm
+Pesticides - Carbamates & Organophosphorus Metabolites - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/CARB_E.htm
+Pesticides - Current Use - Urine (Formerly Priority Pesticides_ Non-persistent Pesticide Metabolites)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB26PP.htm
+Pesticides - Current Use - Urine (Formerly Priority Pesticides_ Non-persistent Pesticide Metabolites)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L26PP_B.htm
+Pesticides - Current Use - Urine (Formerly Priority Pesticides_ Non-persistent Pesticide Metabolites)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L26UPP_C.htm
+Pesticides - Current Use - Urine (Formerly Priority Pesticides_ Non-persistent Pesticide Metabolites)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UPP_D.htm
+Pesticides - Current Use - Urine (Formerly Priority Pesticides_ Non-persistent Pesticide Metabolites)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UPP_E.htm
+Pesticides - Environmental - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L24PP_C.htm
+Pesticides - Environmental - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PP_D.htm
+Pesticides - Environmental - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PP_E.htm
+Pesticides - Environmental - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PP_F.htm
+Pesticides - Environmental - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PP_G.htm
+Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSPST_B.htm
+Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PSTPOL_D.htm
+Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PSTPOL_E.htm
+Pesticides - Organochlorine Metabolites - Serum (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L28OCP_C.htm
+Pesticides - Organochlorine Pesticides - Serum - Pooled Samples[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PSTPOL_F.htm
+Phthalates - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L24PH_C.htm
+Phthalates - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PHTHTE_D.htm
+Phthalates - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PHTHTE_E.htm
+Phthalates - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PHTHTE_F.htm
+Phthalates & Plasticizers Metabolites - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PHTHTE_G.htm
+Phthalates and Plasticizers Metabolites - Urine [2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PHTHTE_H.htm
+Phthalates and Plasticizers Metabolites - Urine (Surplus)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSPHTE_H.htm
+Phthalates_ Phytoestrogens & PAHs - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PHPYPA_B.htm
+Phthalates_ Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PHPYPA.htm
+Physical Activity[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PAQ.htm
+Physical Activity[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PAQ_B.htm
+Physical Activity[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PAQ_C.htm
+Physical Activity[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PAQ_D.htm
+Physical Activity[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PAQ_E.htm
+Physical Activity[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PAQ_F.htm
+Physical Activity[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PAQ_G.htm
+Physical Activity[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PAQ_H.htm
+Physical Activity[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/PAQ_I.htm
+Physical Activity - Individual Activities[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PAQIAF.htm
+Physical Activity - Individual Activities[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PAQIAF_B.htm
+Physical Activity - Individual Activities[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PAQIAF_C.htm
+Physical Activity - Individual Activities[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PAQIAF_D.htm
+Physical Activity Monitor[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PAXRAW_C.htm
+Physical Activity Monitor[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PAXRAW_D.htm
+Physical Functioning[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/PFQ.htm
+Physical Functioning[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PFQ_B.htm
+Physical Functioning[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PFQ_C.htm
+Physical Functioning[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PFQ_D.htm
+Physical Functioning[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PFQ_E.htm
+Physical Functioning[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PFQ_F.htm
+Physical Functioning[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PFQ_G.htm
+Physical Functioning[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PFQ_H.htm
+Physical Functioning[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/PFQ_I.htm
+Phytoestrogens - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06PHY_C.htm
+Phytoestrogens - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PHYTO_D.htm
+Phytoestrogens - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PHYTO_E.htm
+Phytoestrogens - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PHYTO_F.htm
+Plasma Fasting Glucose[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/GLU_H.htm
+Plasma Fasting Glucose & Insulin[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/GLU_D.htm
+Plasma Fasting Glucose & Insulin[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/GLU_E.htm
+Plasma Fasting Glucose & Insulin[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/GLU_F.htm
+Plasma Fasting Glucose & Insulin[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/GLU_G.htm
+Plasma Fasting Glucose_ Serum C-peptide & Insulin[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB10AM.htm
+Plasma Fasting Glucose_ Serum C-peptide & Insulin[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L10AM_B.htm
+Plasma Fasting Glucose_ Serum C-peptide & Insulin[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L10AM_C.htm
+Poliovirus Serotypes 1_ 2_ & 3 Antibodies - Serum (Surplus)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SSPOLI_F.htm
+Polyaromatic Hydrocarbons (PAHs) - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L31PAH_C.htm
+Polyaromatic Hydrocarbons (PAHs) - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PAH_D.htm
+Polyaromatic Hydrocarbons (PAHs) - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PAH_E.htm
+Polyaromatic Hydrocarbons (PAHs) - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PAH_G.htm
+Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PAHS_G.htm
+Polyaromatic Hydrocarbons -Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PAH_F.htm
+Polychlorinated dibenzo-p-dioxins (PCDDs)_ Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  - Pooled Samples[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/DOXPOL_D.htm
+Polychlorinated dibenzo-p-dioxins (PCDDs)_ Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  Pooled Samples[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/DOXPOL_E.htm
+Polychlorinated dibenzo-p-dioxins (PCDDs)_ Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/DOXPOL_F.htm
+Polycyclic Aromatic Hydrocarbons (PAH) - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/PAH_H.htm
+Polyfluoroalkyl Chemicals[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L24PFC_C.htm
+Polyfluoroalkyl Chemicals[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PFC_D.htm
+Polyfluoroalkyl Chemicals[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PFC_E.htm
+Polyfluoroalkyl Chemicals[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PFC_F.htm
+Polyfluoroalkyl Chemicals[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/PFC_G.htm
+Polyfluoroalkyl Chemicals - Pooled Samples (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/PFC_POOL.htm
+Pooled-Sample Technical Support File [2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/POOLTF_F.htm
+Pregnancy Test - Urine[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/UC.htm
+Pregnancy Test - Urine[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/UC_B.htm
+Pregnancy Test - Urine[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/UC_C.htm
+Pregnancy Test - Urine[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/UCPREG_D.htm
+Pregnancy Test - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UCPREG_E.htm
+Pregnancy Test - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UCPREG_F.htm
+Pregnancy Test - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UCPREG_G.htm
+Pregnancy Test - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UCPREG_H.htm
+Pregnancy Test - Urine[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/UCPREG_I.htm
+Prescription Medications[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/RXQ_RX.htm
+Prescription Medications[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/RXQ_RX_B.htm
+Prescription Medications[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/RXQ_RX_C.htm
+Prescription Medications[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/RXQ_RX_D.htm
+Prescription Medications[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/RXQ_RX_E.htm
+Prescription Medications[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/RXQ_RX_F.htm
+Prescription Medications[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/RXQ_RX_G.htm
+Prescription Medications[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/RXQ_RX_H.htm
+Prescription Medications - Drug Information[1988-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/RXQ_DRUG.htm
+Preventive Aspirin Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/RXQASA_G.htm
+Preventive Aspirin Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/RXQASA_H.htm
+Prostate Conditions[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/KIQ_P_B.htm
+Prostate Conditions[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/KIQ_P_C.htm
+Prostate Conditions[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/KIQ_P_D.htm
+Prostate Conditions[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/KIQ_P_E.htm
+Prostate specific antigen (PSA)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L11PSA_B.htm
+Prostate Specific Antigen (PSA)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L11PSA_C.htm
+Prostate Specific Antigen (PSA)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PSA_D.htm
+Prostate Specific Antigen (PSA)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/PSA_E.htm
+Prostate Specific Antigen (PSA)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/PSA_F.htm
+Prostate Specific Antigen Follow-up[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/PSQ_C.htm
+Prostate Specific Antigen Follow-up[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/PSQ_D.htm
+Prostate-specific Antigen (PSA)_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L11P_2_B.htm
+Pyrethroids_ Herbicides_ & OP Metabolites - Urine[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/UPHOPM_E.htm
+Pyrethroids_ Herbicides_ & OP Metabolites - Urine[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UPHOPM_F.htm
+Reproductive Health[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/RHQ.htm
+Reproductive Health[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/RHQ_B.htm
+Reproductive Health[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/RHQ_C.htm
+Reproductive Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/RHQ_D.htm
+Reproductive Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/RHQ_E.htm
+Reproductive Health[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/RHQ_F.htm
+Reproductive Health[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/RHQ_G.htm
+Reproductive Health[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/RHQ_H.htm
+Reproductive Health - Pregnant Women[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/RHQ_E_R.htm
+Reproductive Health - Pregnant Women[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/RHQ_F_R.htm
+Reproductive Health - Pregnant Women[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/RHQ_G_R.htm
+Reproductive Health - Pregnant Women[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/RHQ_H_R.htm
+Respiratory Health[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/RDQ.htm
+Respiratory Health[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/RDQ_B.htm
+Respiratory Health[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/RDQ_C.htm
+Respiratory Health[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/RDQ_D.htm
+Respiratory Health[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/RDQ_E.htm
+Respiratory Health[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/RDQ_F.htm
+Respiratory Health[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/RDQ_G.htm
+Salmonella & Campylobacter Antibodies (Surplus)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SSSAL_D.htm
+Second Day Lab General Documentation[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/DOC_2000.htm
+Serum Folate Forms [2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/FOLFMS_E.htm
+Sex Steroid Hormone - Men (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSCHL_A.htm
+Sex Steroid Hormone - Men (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSCHL_B.htm
+Sex Steroid Hormone - Men (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSCHL_C.htm
+Sexual Behavior[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SXQ.htm
+Sexual Behavior[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SXQ_B.htm
+Sexual Behavior[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SXQ_C.htm
+Sexual Behavior[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SXQ_D.htm
+Sexual Behavior[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SXQ_E.htm
+Sexual Behavior[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SXQ_F.htm
+Sexual Behavior[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SXQ_G.htm
+Sexual Behavior[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SXQ_H.htm
+Sexual Behavior[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/SXQ_I.htm
+Sexual Behavior - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQYTH_D.htm
+Sexual Behavior - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQYTH_E.htm
+Sexual Behavior - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQY_F_R.htm
+Sexual Behavior - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQY_G_R.htm
+Sexual Behavior - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQY_H_R.htm
+Sexual Behavior - Youth[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SXQY_I_R.htm
+Shared Exclusion Questions[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SEQ.htm
+Sleep Disorders[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SLQ_D.htm
+Sleep Disorders[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SLQ_E.htm
+Sleep Disorders[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SLQ_F.htm
+Sleep Disorders[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SLQ_G.htm
+Sleep Disorders[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SLQ_H.htm
+Smoking - Adult Recent Tobacco Use & Youth Cigarette_Tobacco Use[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SMQMEC.htm
+Smoking - Adult Recent Tobacco Use & Youth Cigarette_Tobacco Use[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SMQMEC_B.htm
+Smoking - Adult Recent Tobacco Use & Youth Cigarette_Tobacco Use[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SMQMEC_C.htm
+Smoking - Cigarette Use[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SMQ_D.htm
+Smoking - Cigarette Use[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SMQ_E.htm
+Smoking - Cigarette Use[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SMQ_F.htm
+Smoking - Cigarette Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SMQ_G.htm
+Smoking - Cigarette Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SMQ_H.htm
+Smoking - Cigarette Use[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/SMQ_I.htm
+Smoking - Cigarette_Tobacco Use - Adult[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SMQ.htm
+Smoking - Cigarette_Tobacco Use - Adult[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SMQ_B.htm
+Smoking - Cigarette_Tobacco Use - Adult[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SMQ_C.htm
+Smoking - Household Smokers[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SMQFAM.htm
+Smoking - Household Smokers[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SMQFAM_B.htm
+Smoking - Household Smokers[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SMQFAM_C.htm
+Smoking - Household Smokers[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SMQFAM_D.htm
+Smoking - Household Smokers[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SMQFAM_E.htm
+Smoking - Household Smokers[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SMQFAM_F.htm
+Smoking - Household Smokers[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SMQFAM_G.htm
+Smoking - Household Smokers[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SMQFAM_H.htm
+Smoking - Household Smokers[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/SMQFAM_I.htm
+Smoking - Recent Tobacco Use[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SMQRTU_D.htm
+Smoking - Recent Tobacco Use[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SMQRTU_E.htm
+Smoking - Recent Tobacco Use[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SMQRTU_F.htm
+Smoking - Recent Tobacco Use[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SMQRTU_G.htm
+Smoking - Recent Tobacco Use[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SMQRTU_H.htm
+Smoking - Recent Tobacco Use[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/SMQRTU_I.htm
+Smoking - Secondhand Smoke Exposure[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SMQSHS_H.htm
+Smoking - Secondhand Smoke Exposure[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/SMQSHS_I.htm
+Social Support[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSQ.htm
+Social Support[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSQ_B.htm
+Social Support[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSQ_C.htm
+Social Support[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SSQ_D.htm
+Social Support[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SSQ_E.htm
+Sodium_ Potassium & Chloride - Casual Urine[2010-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/SSUE10_R.htm
+Spirometry - Pre and Post-Bronchodilator[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SPX_E.htm
+Spirometry - Pre and Post-Bronchodilator[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SPX_F.htm
+Spirometry - Pre and Post-Bronchodilator[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SPX_G.htm
+Spirometry - Raw Curve Data[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SPXRAW_E.htm
+Spirometry - Raw Curve Data[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SPXRAW_F.htm
+Spirometry - Raw Curve Data[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SPXRAW_G.htm
+Standard Biochemistry Profile[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L40_B.htm
+Standard Biochemistry Profile[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L40_C.htm
+Standard Biochemistry Profile[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/BIOPRO_D.htm
+Standard Biochemistry Profile[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/BIOPRO_E.htm
+Standard Biochemistry Profile[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/BIOPRO_F.htm
+Standard Biochemistry Profile[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/BIOPRO_G.htm
+Standard Biochemistry Profile[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/BIOPRO_H.htm
+Standard Biochemistry Profile [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/BIOPRO_I.htm
+Standard Biochemistry Profile & Hormones[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB18.htm
+Standard Biochemistry Profile & Hormones_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/L18_2_00.htm
+Standard Biochemistry Profile_ Follicle Stimulating Hormone & Luteinizing Hormone_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L40_2_B.htm
+Syphilis-IgG_ Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L36_B.htm
+Syphilis-IgG_ Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L36_C.htm
+Taste & Smell[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/CSQ_G.htm
+Taste & Smell[2012-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CSX_G_R.htm
+Taste & Smell[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CSX_H.htm
+Taste & Smell[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/CSQ_H.htm
+Telomere Mean and Standard Deviation (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/TELO_A.htm
+Telomere Mean and Standard Deviation (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/TELO_B.htm
+Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB18T4.htm
+Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L40T4_B.htm
+Thyroid Profile[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/THYROD_E.htm
+Thyroid Profile[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/THYROD_F.htm
+Thyroid Profile[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/THYROD_G.htm
+Thyroid Profile (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSNH4THY.htm
+Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/TGEMA_F.htm
+Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TGEMA_G.htm
+Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/TGEMA_H.htm
+Total Testosterone[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TST_G.htm
+Toxoplasma (IgG) & Toxoplasma (IgM)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L17_C.htm
+Toxoplasma (IgG)_ Toxoplasma (IgM)_Toxoplasma (Dye)_Toxoplasma Differential Agglutination_ & Toxoplasma (Avidity)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L17_B.htm
+Toxoplasma Gondii Antibody - Serum (Surplus)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/SSTOXO_F.htm
+Toxoplasma gondii Antibody - Serum (Surplus)[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/SSTOXO_G.htm
+Toxoplasma gondii Antibody - Serum (Surplus)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/SSTOXO_H.htm
+Trans Fatty Acids[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/TFA_A.htm
+Trans Fatty Acids[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/TFA_F.htm
+Transferrin Receptor[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/TFR_D.htm
+Transferrin Receptor[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/TFR_E.htm
+Transferrin Receptor[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/TFR_F.htm
+Transferrin Receptor - Pregnant Women (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSTFR_A.htm
+Transferrin Receptor - Pregnant Women (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSTFR_B.htm
+Trichomonas - Urine[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/TRICH_H.htm
+Trichomonas - Urine[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/TRICH_I.htm
+Trichomonas - Urine - Youth [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/TRIC_I_R.htm
+Trichomonas - Urine -Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/TRIC_H_R.htm
+Tuberculosis[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/TB.htm
+Tuberculosis[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/TBQ.htm
+Tuberculosis[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TBQ_G.htm
+Tuberculosis[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TBX_G.htm
+Tuberculosis - Quantiferon_In_Gold[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/TB_G.htm
+Urinary Chlamydia - Youth[2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/CHLM_I_R.htm
+Urine Flow Rate[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/UCFLOW_F.htm
+Urine Flow Rate[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UCFLOW_G.htm
+Urine Flow Rate[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/UCFLOW_H.htm
+Urine Flow Rate [2015-2016].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2015-2016/UCFLOW_I.htm
+Urine Specific Gravity Measurement (Surplus)[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/SSUSG_E.htm
+Varicella-Zoster Virus Antibody (Surplus)[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/SSVARI_A.htm
+Varicella-Zoster Virus Antibody (Surplus)[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/SSVARI_B.htm
+Varicella-Zoster Virus Antibody (Surplus)[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/SSVARI_C.htm
+Vision[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/VIQ.htm
+Vision[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/VIX.htm
+Vision[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/VIX_B.htm
+Vision[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/VIQ_B.htm
+Vision[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/VIQ_C.htm
+Vision[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/VIX_C.htm
+Vision[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VIX_D.htm
+Vision[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VIQ_D.htm
+Vision[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VIX_E.htm
+Vision[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VIQ_E.htm
+Vitamin A & Vitamin E_ Second Exam[2000-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/limited_access/VIT_2_R.htm
+Vitamin A_ Vitamin E & Carotenoids[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L06VIT_B.htm
+Vitamin A_ Vitamin E & Carotenoids[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L45VIT_C.htm
+Vitamin A_ Vitamin E & Carotenoids[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VITAEC_D.htm
+Vitamin A_ Vitamin E_ & Carotenoids_ Second Exam[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/VIT_2_B.htm
+Vitamin B12[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/B12_D.htm
+Vitamin B12[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/VITB12_G.htm
+Vitamin B12[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/VITB12_H.htm
+Vitamin B6[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L43_C.htm
+Vitamin B6[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VIT_B6_D.htm
+Vitamin B6[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VIT_B6_E.htm
+Vitamin B6[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/VIT_B6_F.htm
+Vitamin C[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/L06VIT_C.htm
+Vitamin C[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VIC_D.htm
+Vitamin D[2001-2002].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2001-2002/VID_B.htm&t=VID_B%20Doc
+Vitamin D[2003-2004].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2003-2004/VID_C.htm&t=VID_C%20Doc
+Vitamin D[2005-2006].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2005-2006/VID_D.htm&t=VID_D%20Doc
+Vitamin D[2007-2008].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2007-2008/VID_E.htm&t=VID_E%20Doc
+Vitamin D[2009-2010].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2009-2010/VID_F.htm&t=VID_F%20Doc
+Vitamin D[2011-2012].XPT,https://wwwn.cdc.gov//nchs/nhanes/vitamind/analyticalnote.aspx?h=/Nchs/Nhanes/2011-2012/VID_G.htm&t=VID_G%20Doc
+Volatile Organic Compounds - Blood & Related Questionnaire Items[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VOCWB_D.htm
+Volatile Organic Compounds - Blood & Related Questionnaire Items[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VOCWB_E.htm
+Volatile Organic Compounds - Blood & Water[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB04.htm
+Volatile Organic Compounds - Blood & Water[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/L04VOC_B.htm
+Volatile Organic Compounds - Trihalomethanes_MTBE_Nitromethane - Blood[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VOCMWB_E.htm
+Volatile Organic Compounds - Water & Related Questionnaire Items[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/VOC_D.htm
+Volatile Organic Compounds - Water & Related Questionnaire Items[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/VOC_E.htm
+Volatile Organic Compounds & Metabolites - Urine[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UVOC_G.htm
+Volatile Organic Compounds & Metabolites - Urine - Special Sample[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/UVOCS_G.htm
+Volatile Organic Compounds & Metabolites - Urine (Surplus)[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/SSUVOC_D.htm
+Volatile Organic Compounds (VOC) - Personal Exposure Badge[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/LAB21.htm
+Volatile Organic Compounds (VOCs) - Blood[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/VOCWB_F.htm
+Volatile Organic Compounds (VOCs) - Blood[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/VOCWB_G.htm
+Volatile Organic Compounds (VOCs) - Water[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/VOC_F.htm
+Volatile Organic Compounds (VOCs) and Trihalomethanes_MTBE - Blood - Special Sample[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/VOCWBS_H.htm
+Volatile Organic Compounds and Trihalomethanes_MTBE - Blood[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/VOCWB_H.htm
+Volatile Toxicant (Subsample)[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/VTQ_F.htm
+Volatile Toxicant (Subsample)[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/VTQ_G.htm
+Volatile Toxicant (Subsample)[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/VTQ_H.htm
+Weight History[1999-2000].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/1999-2000/WHQ.htm
+Weight History[2001-2002].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2001-2002/WHQ_B.htm
+Weight History[2003-2004].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2003-2004/WHQ_C.htm
+Weight History[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/WHQ_D.htm
+Weight History[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/WHQ_E.htm
+Weight History[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/WHQ_F.htm
+Weight History[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/WHQ_G.htm
+Weight History[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/WHQ_H.htm
+Weight History - Youth[2005-2006].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2005-2006/WHQMEC_D.htm
+Weight History - Youth[2007-2008].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2007-2008/WHQMEC_E.htm
+Weight History - Youth[2009-2010].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2009-2010/WHQMEC_F.htm
+Weight History - Youth[2011-2012].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2011-2012/WHQMEC_G.htm
+Weight History - Youth[2013-2014].XPT,https://wwwn.cdc.gov//Nchs/Nhanes/2013-2014/WHQMEC_H.htm
+Dual-Energy X-ray Absorptiometry - Whole Body (Multiply Imputed Data)[2005-2006].XPT,https://wwwn.cdc.gov/Nchs/NA
+Dual-Energy X-ray Absorptiometry - Whole Body (Multiply Imputed Data)[2003-2004].XPT,https://wwwn.cdc.gov/Nchs/data/nhanes/dxa/dxx_c.pdf
+Dual-Energy X-ray Absorptiometry - Whole Body (Multiply Imputed Data)[2001-2002].XPT,https://wwwn.cdc.gov/Nchs/data/nhanes/dxa/dxx_b.pdf
+Dual-Energy X-ray Absorptiometry - Whole Body (Multiply Imputed Data)[1999-2000].XPT,https://wwwn.cdc.gov/Nchs/data/nhanes/dxa/dxx.pdf
