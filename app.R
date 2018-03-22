@@ -1,54 +1,43 @@
+# Download entire data set by year range
 library(shiny)
+library(stringr)
 
-# Spike to download the entire data set
-  # Note that it takes some time tp process
-test.page <- function(){
-  files.to.zip = c("./data", "./documentation links.txt", "./special cases.txt")
-  
-  ui <- fluidPage(
-    downloadButton('downloadData', 'Download All')
-  )
-  
-  server = function(input, output){
-    output$downloadData <- downloadHandler(
-      filename = function() {
-        "files.zip"
-      },
-      content = function(file) {
-        zip(zipfile=file, files=files.to.zip)
-      }
-    )
-  }
-  shinyApp(ui=ui, server=server)
+# Gets all the data file names and their related info
+  # Uses the file name for this
+allData = list.files("./data")
+dataL = str_match_all(allData, "([^\\[]+)\\[([^\\]]+)]\\.XPT")
+years = unique(unlist(lapply(dataL, function(x){ x[1,3]})))
+
+# Sort data into year buckets
+  # Contains the data name and a reference to the original file
+byYear = as.list(years)
+names(byYear) = byYear
+byYear = lapply(byYear, function(x){NULL})
+for(x in dataL){
+  year = x[1,3]
+  x2 = x[1,1]
+  names(x2) = x[1,2]
+  byYear[[year]] = c(byYear[[year]], x2)
 }
 
+files.to.zip = c("./data", "./documentation links.txt", "./special cases.txt")
 
-# Does the same as the spike above, but with a single selectInput item
-test.download.all <- function(){
-  files = list.files("./data", all.files=F, full.names=F)
-  files = gsub("\\.\\w+", "", files)
-  names(files) = files
+ui <- fluidPage(
+  selectInput("year", h3("Select Year"), choices=years, selected=1, multiple=F),
+  downloadButton('downloadData', 'Download All')
+)
+
+server = function(input, output){
   
-  ui <- fluidPage(
-    selectInput("data.set", h3("Select Data Set"), choices=files, selected=1, multiple=T),
-    downloadButton('downloadData', 'Download')
+  output$downloadData <- downloadHandler(
+    filename = function() {
+      "files.zip"
+    },
+    content = function(file) {
+      #zip(zipfile=file, files=files.to.zip)
+      print(unname(byYear[[input$year]]))
+      zip(zipfile=file, files=file.path(".", "data", byYear[[input$year]]))
+    }
   )
-  
-  server = function(input, output){
-    files.to.download <- eventReactive(input$data.set, {
-      paste0("./NHANES_CSV/2007_2008/", input$data.set, ".csv")
-    })
-    
-    output$downloadData <- downloadHandler(
-      filename = function() {
-        "data.zip"
-      },
-      content = function(file) {
-        zip(zipfile=file, files=files.to.download())
-      }
-    )
-  }
-  shinyApp(ui=ui, server=server)
 }
-
-test.page()
+shinyApp(ui=ui, server=server)
